@@ -1,3 +1,12 @@
+# Yet Another Conference Theme for Hugo
+
+This is a hard fork of [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
+
+## References
+
+- https://github.com/jizusun/zbh-conferences
+
+
 # Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
